@@ -262,7 +262,7 @@ p {
 }
 
 .custom_nav_menu .navbar-brand.logo img {
-    height: 26px;
+    height: 54px;
 }
 
 .stickyadd.custom_nav_menu {
@@ -438,6 +438,7 @@ p {
     max-width: 450px;
     font-size: 24px;
     line-height: 1.4;
+     text-align: justify;
 }
 
 .about_icon span {
@@ -895,7 +896,7 @@ textarea.form-control {
         display: none;
     }
     .custom_nav_menu .navbar-brand.logo img {
-        height: 26px;
+        height: 36px;
     }
     .navbar-nav {
         margin-top: 0px;
