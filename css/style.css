@@ -237,7 +237,7 @@ p {
 }
 
 .custom_nav_menu .navbar-nav li a {
-    color: #fff;
+    color: #000;
     font-size: 15px;
     background-color: transparent !important;
     padding: 15px 0;
@@ -262,7 +262,7 @@ p {
 }
 
 .custom_nav_menu .navbar-brand.logo img {
-    height: 54px;
+    height: 26px;
 }
 
 .stickyadd.custom_nav_menu {
@@ -300,8 +300,8 @@ p {
 
 .logo .logo-light {
     display: inline-block;
-    width: 32px;
-    height: 32px;
+    width: 36px;
+    height: 36px;
 }
 
 .stickyadd .logo .logo-dark {
@@ -314,10 +314,14 @@ p {
 
 .logo .logo-dark {
     display: none;
-     width: 32px;
-    height: 32px;
+     width:72px;
+    height: 72px;
 }
 
+.navbar-fixed-top {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
 
 /*================
     04.HOME
@@ -436,9 +440,9 @@ p {
 
 .about_header_main .about_heading {
     max-width: 450px;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 1.4;
-     text-align: justify;
+    text-align: justify;
 }
 
 .about_icon span {
@@ -896,7 +900,7 @@ textarea.form-control {
         display: none;
     }
     .custom_nav_menu .navbar-brand.logo img {
-        height: 36px;
+        height: 26px;
     }
     .navbar-nav {
         margin-top: 0px;
