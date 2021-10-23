@@ -352,6 +352,7 @@ p {
     color: #dadada;
     max-width: 600px;
     line-height: 1.8;
+    font-weight: bold;
 }
 
 .home_table_cell_center {
@@ -795,6 +796,11 @@ p {
 
 .img_blog span {
     font-size: 35px;
+}
+.img_about{
+    height: 340px;
+    width: 500px;
+    object-fit: contain;
 }
 
 .space_date {
