@@ -119,6 +119,12 @@ p {
     background-color: #f52a50;
     border-radius: 0px;
 }
+.btn_custom_wa {
+    margin-top: 10px;
+    border: 1px solid #075E54;
+    background-color: #075E54;
+    border-radius: 0px;
+}
 
 .btn_custom:hover,
 .btn_custom:focus,
@@ -210,7 +216,7 @@ p {
 }
 
 .navbar-brand img {
-    height: 34px;
+    height: 130px;
 }
 
 .btn-rounded {
@@ -300,8 +306,8 @@ p {
 
 .logo .logo-light {
     display: inline-block;
-    width: 36px;
-    height: 36px;
+    width: 120px;
+    height: 72px;
 }
 
 .stickyadd .logo .logo-dark {
@@ -884,7 +890,7 @@ textarea.form-control {
     }
     .custom_nav_menu .navbar-nav li a {
         margin: 0 0px;
-        padding: 6px 0;
+        padding: 0px 0;
         color: rgba(0, 0, 0, 0.55) !important;
     }
     .custom_nav_menu .navbar-nav li.active a {
