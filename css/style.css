@@ -78,7 +78,7 @@ p {
 ====================*/
 
 .bg_overlay_cover_on {
-    background-color: rgba(42, 44, 46, 0.9);
+    background-color: rgba(42, 44, 46, 0.5);
     position: absolute;
     top: 0;
     right: 0;
@@ -335,7 +335,7 @@ p {
 ==================*/
 
 .bg_home_cover {
-    background-image: url(../images/bg_home-2.jpg);
+    background-image: url(../images/topimg2.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
