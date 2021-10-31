@@ -793,6 +793,14 @@ p {
     letter-spacing: 2px;
     font-weight: normal;
 }
+.product_text{
+     text-align: justify;
+  text-justify: inter-word;
+}
+.product_title{
+     text-align: center;
+  text-justify: inter-word;
+}
 
 .img_blog span {
     font-size: 35px;
@@ -940,4 +948,23 @@ textarea.form-control {
     .home_half_cover {
         padding: 125px 0 130px 0;
     }
+}
+
+.float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+  font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+    margin-top:16px;
 }
